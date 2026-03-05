@@ -1,2 +1,3 @@
 # DASC3240_Assignment1
-My first project on Github
+
+Welcome to visit my first project on GitHub :)

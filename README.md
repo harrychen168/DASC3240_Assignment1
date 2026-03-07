@@ -4,7 +4,7 @@
 This project is about static plots analysis for tree community data in
 Hong Kong forest plots.***
 
-## ** 01. Project Overview** 
+## 01. Project Overview 
 
 This repository contains **R code** for analyzing **tree species
 composition and abundance** in 28 Hong Kong forest plots. The analysis

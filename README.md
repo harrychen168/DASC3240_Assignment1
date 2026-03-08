@@ -40,7 +40,8 @@ Install the required R packages before running the code: *{
 ##  05. Usage 
 
 Place the CSV data files in a folder (or adjust the file path in the
-code). Run the R script/Rmd file to generate the required plots. All
+code: *{`setwd("Please modify with your address of the downloaded data files")` }*
+Then, run the R script/Rmd file to generate the required plots. All
 plots follow the assignment requirements.
 
 ##  06. License 

@@ -69,7 +69,7 @@ Go to Canvas and download `Abbas_2019_TableS4_ed1.csv` and `Abbas_2019_TableS4_e
 library(tidyverse)
 library(vegan)
 
-#setwd("/Users/hc/Desktop/Desktop/IEDA/Year 4 Spring/DASC 3240/Assignment-1/DASC3240_Assignment1") 
+setwd("/Users/hc/Desktop/Desktop/IEDA/Year 4 Spring/DASC 3240/Assignment-1/DASC3240_Assignment1") 
 
 # Load data
 ed1 <- read.csv("data/Abbas_2019_TableS4_ed1.csv", row.names = 1)
